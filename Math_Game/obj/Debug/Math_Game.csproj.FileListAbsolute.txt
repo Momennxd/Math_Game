@@ -1,0 +1,13 @@
+E:\Projects\My Projects With C#\Math Game\Math_Game\bin\Debug\Math_Game.exe.config
+E:\Projects\My Projects With C#\Math Game\Math_Game\bin\Debug\Math_Game.exe
+E:\Projects\My Projects With C#\Math Game\Math_Game\bin\Debug\Math_Game.pdb
+E:\Projects\My Projects With C#\Math Game\Math_Game\obj\Debug\Math_Game.csproj.AssemblyReference.cache
+E:\Projects\My Projects With C#\Math Game\Math_Game\obj\Debug\Math_Game.csproj.SuggestedBindingRedirects.cache
+E:\Projects\My Projects With C#\Math Game\Math_Game\obj\Debug\Math_Game.Form1.resources
+E:\Projects\My Projects With C#\Math Game\Math_Game\obj\Debug\Math_Game.Properties.Resources.resources
+E:\Projects\My Projects With C#\Math Game\Math_Game\obj\Debug\Math_Game.csproj.GenerateResource.cache
+E:\Projects\My Projects With C#\Math Game\Math_Game\obj\Debug\Math_Game.csproj.CoreCompileInputs.cache
+E:\Projects\My Projects With C#\Math Game\Math_Game\obj\Debug\Math_Game.exe
+E:\Projects\My Projects With C#\Math Game\Math_Game\obj\Debug\Math_Game.pdb
+E:\Projects\My Projects With C#\Math Game\Math_Game\obj\Debug\Math_Game.Game_Screen.resources
+E:\Projects\My Projects With C#\Math Game\Math_Game\obj\Debug\Math_Game.frmStats.resources
